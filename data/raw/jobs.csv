@@ -1,0 +1,11 @@
+job_id,job_title,company,location,experience,salary_min,salary_max,employment_type,posted_date,skills,source
+1,Data Engineer,TechNova,Bengaluru,2-4,700000,1100000,Full-time,2026-08-01,"Python|SQL|PySpark|AWS",sample
+2,Cloud Data Engineer,DataSphere,Hyderabad,1-3,650000,1050000,Full-time,2026-08-02,"Python|SQL|AWS|Glue",sample
+3,Data Analyst,InsightWorks,Pune,0-2,450000,750000,Full-time,2026-08-02,"SQL|Pandas|Power BI",sample
+4,Senior Data Engineer,CloudScale,Noida,4-7,1200000,1900000,Full-time,2026-08-03,"Python|Spark|Azure|Databricks",sample
+5,ML Data Engineer,AIForge,Delhi,2-5,800000,1400000,Full-time,2026-08-04,"Python|SQL|Spark|ML",sample
+6,Data Engineer,TechNova,Bengaluru,2-4,720000,1150000,Full-time,2026-08-05,"Python|SQL|PySpark|AWS",sample
+7,ETL Developer,DataWorks,Chennai,2-5,600000,950000,Full-time,2026-08-05,"SQL|Python|ETL",sample
+8,Cloud Data Engineer,CloudScale,Noida,3-6,1000000,1700000,Full-time,2026-08-06,"AWS|Spark|Python|S3",sample
+9,Data Engineer,InsightWorks,Pune,1-3,650000,1000000,Contract,2026-08-07,"SQL|Python|GCP",sample
+10,Analytics Engineer,MegaRetail,Mumbai,2-4,750000,1200000,Full-time,2026-08-08,"SQL|dbt|Python|BigQuery",sample

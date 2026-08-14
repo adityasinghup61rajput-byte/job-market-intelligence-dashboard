@@ -1,0 +1,9 @@
+{
+  "row_count": 10,
+  "unique_job_ids": 10,
+  "duplicate_job_ids": 0,
+  "null_job_ids": 0,
+  "invalid_salary_ranges": 0,
+  "null_posted_dates": 0,
+  "quality_passed": true
+}
